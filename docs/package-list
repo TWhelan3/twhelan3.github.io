@@ -1,5 +1,6 @@
 com.team23.weather
 com.team23.weather.configuration
+com.team23.weather.errorhandling
 com.team23.weather.formatting
 com.team23.weather.gui
 com.team23.weather.http
